@@ -1,0 +1,32 @@
+---
+title: "GitHub"
+output: html_document
+date: "2022-12-10"
+---
+Week 1:
+  1. Learned how to create and work in a R-Markdown file
+  2. Gained a better understanding of how to manage overfitted models.
+Week 2:
+  1. Learned how to clean up data files by removing NA values and transforming variables. 
+  2. Got more practice using the ggplot functions and interpreting results, along with interpreting the summary() function.
+Week 3:
+  1. Learned how to build a boxplot in R.
+  2. Gained a much deeper understanding of linear regression.
+Week 4:
+  1. Learned how to build a classification model.
+  2. Learned that Linear Regression is not always appropriate especially when working with qualitative responses.
+Week 5:
+  1. Learned how to integrate Poisson and Gamma distributions in a glm model.
+  2. Gained a better understanding about the strengths and weaknesses of glm.
+Week 6:
+  1. Got a better understanding of decesion trees, which I have struggled with in the past.
+  2. Learned what a gradient boosting machine is and their pros/cons.
+Week 7:
+  1. Learned a much more efficent way to determine optimal number of clusters using fviz_nbclust() function.
+  2. Took a deep dive into unsupervised learning and coorelated their functions with realworld examples.
+Week 8:
+  1. Learned you can create a slideshow within r-markdown
+  2. Got to gain some small experience in GitHub.
+  
+  
+  
